@@ -1,0 +1,17 @@
+{
+    "name": "wisdmlabs/todolist",
+    "description": "You can create the to-do-list of your task.",
+    "authors": [
+        {
+            "name": "Hamid",
+            "email": "admin@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Wisdmlabs\\Todolist\\": "src/"
+        }
+    }
+}
